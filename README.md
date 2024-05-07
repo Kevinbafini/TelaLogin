@@ -1,13 +1,15 @@
-<h1 align="center">E-commerce Primary Shop</h1>
+<h1 align="center">Projeto Tela de Login
+</h1>
 
-<p align="center">Esse projeto foi desenvolvido especialmente para o aprendizado e especificação das tecnologias abaixo.</p>
+<p align="center">Este é um projeto de tela de login responsivo, que inclui um sistema de troca de temas (claro e escuro). Ele foi desenvolvido para fornecer uma interface de usuário elegante e funcional, adequada para diferentes dispositivos e resoluções de tela.
+</p>
 
 ## Recursos:
 
-- Visualização detalhada do produto com imagens de alta definição.
-- Seleção de tamanhos de camisetas com uma interface de usuário interativa.
-- Carrinho de compras com atualização dinâmica de itens.
-- Mensagem de aviso personalizada para seleção de tamanho antes de adicionar ao carrinho.
+- **Responsividade**: A tela de login ajusta-se a diferentes tamanhos de tela, desde dispositivos móveis a desktops.
+- **Troca de Temas**: Possui um toggle para mudar entre tema claro e tema escuro.
+- **Imagens Dinâmicas**: Logotipos que mudam conforme o tema selecionado.
+- **Validação de Formulário**: Entradas de usuário para login são validadas no front-end.
 
 ## 🛠 Tecnologias
 
