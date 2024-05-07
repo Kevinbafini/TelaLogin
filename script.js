@@ -17,3 +17,4 @@ document.addEventListener('DOMContentLoaded', () => {
         checkbox.checked = (currentTheme === 'light-theme');
     }
 });
+
