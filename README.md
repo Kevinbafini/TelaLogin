@@ -44,7 +44,7 @@ Para executar este projeto localmente, siga estes passos:
 - Clone o repositório para sua máquina local:
 
 ```bash
-https://github.com/Kevinbafini/primary_shop.git
+https://github.com/Kevinbafini/TelaLogin.git
 ```
 
 Isso criará uma cópia local do repositório em sua máquina.
